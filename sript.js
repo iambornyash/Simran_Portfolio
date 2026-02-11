@@ -1,5 +1,5 @@
 var typed = new Typed(".text", {
-    strings: ["Python Developer", "DataBase Manager", "Data Analyst"],
+    strings: ["Lawyer", "Data Analyst", "Tech-savvy Engineer"],
     typeSpeed: 100,
     backSpeed:100,
     backDelay: 1000,
@@ -25,3 +25,4 @@ window.onscroll = () => {
         }
     });
 };
+
